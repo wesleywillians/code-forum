@@ -1,0 +1,11 @@
+{
+    "name": "wesleywillians/code-forum",
+    "description": "Laravel package test",
+    "authors": [
+        {
+            "name": "Wesley Willians",
+            "email": "wesleywillians@gmail.com"
+        }
+    ],
+    "require": {}
+}
